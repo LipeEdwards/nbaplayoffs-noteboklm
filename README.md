@@ -12,11 +12,7 @@ Visão de Negócios (Business/ROI): Avaliar o impacto financeiro e o valor da ma
 --------------------------------------------------------------------------------
 📚 Curadoria de Fontes
 As análises deste projeto foram alimentadas pelas seguintes fontes integradas ao NotebookLM:
-**James Dolan’s Controversial 30MThibodeauFiringHasPaidOff(FrontOfficeSports):∗∗Artigodetalhandoaousadadecis 
-a
-~
- oexecutivadedemitirThibodeau(pagandoUS 30 milhões de rescisão) e a contratação de Mike Brown, além do investimento de US$ 207 milhões na folha salarial
-.
+1. James Dolan’s Controversial 30M Thibodeau Firing Has Paid Off (Front Office Sports): Artigo detalhando a ousada decisão executiva de demitir Thibodeau (pagando 30 milhões de dólares de rescisão) e a contratação de Mike Brown, além do investimento de 207 milhões de dólares na folha salarial.
 Estatísticas da Postseason da NBA 2025-26 (ESPN): Base de dados quantitativos detalhando a queda de minutos de Brunson (36,1 mpg) e suas médias de pontuação (26,9 pts)
 .
 Relentless Knicks sweep Cavaliers and return to NBA finals (The Guardian): Cobertura jornalística sobre a sequência de 11 vitórias seguidas nos playoffs e a valorização absurda dos ingressos courtside para US$ 105.000
